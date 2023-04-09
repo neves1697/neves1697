@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working como analista de suporte
-- 🌱 I’m currently learning  Javascript, Typescript, front end e back end.
-- 😄 Pronouns: Ele/dele
+- 🔭 Estou trabalhando como analista de suporte de software #AGROTECH
+- 🌱 Estou aprendendo no momento,  Javascript, Typescript, front end e back end com React JS.
+- 😄 Pronomes: Ele/dele
 
 <div>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
