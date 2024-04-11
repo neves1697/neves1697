@@ -87,7 +87,6 @@ width="40" height="40"/> </a> </p>
         alt="neves1697" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neves1697&" alt="neves1697" /></p>
-](https://login.lg.com.br/login/siagri)
 
 <style>
 .pergunteme{
