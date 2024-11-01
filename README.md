@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Olá 👋, sou o Anderson Neves</h1>
-<h3 style="text-align: center;">Estudante de desenvolvimento de sistemas</h3>
+<h3 style="text-align: center;">Formado em desenvolvimento de sistemas</h3>
 
 <p> 
     <img src="https://komarev.com/ghpvc/?username=neves1697&label=Profile%20views&color=0e75b6&style=flat" alt="neves1697" />
