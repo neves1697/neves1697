@@ -93,8 +93,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neves1697" alt="neves1697" /></p>
 
-<style>
-    .pergunteme {
-        color: blue;
-    }
-</style>
