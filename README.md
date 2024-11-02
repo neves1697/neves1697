@@ -11,7 +11,7 @@
 <p>- 👨‍💻 Todos os meus projetos estão disponíveis em: <a href="https://github.com/neves1697?tab=repositories" style="all: unset">Meus Repositórios</a> </p>
 
 
-<p class="pergunteme">- Pergunte-me sobre **Banco de Dados**</p>
+<p class="pergunteme">- Pergunte-me sobre <b>Banco de Dados</b></p>
 
 <p>
     📫 Linkedin: <a href="https://www.linkedin.com/in/anderson-neves-405968118/" target="_blank">Conecte-se comigo</a>
